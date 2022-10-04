@@ -1,7 +1,7 @@
 import pygame
 import sys
-import chess.game as chess
-from chess.board import Chessboard
+import game as chess
+from board import Chessboard
 
 SCREEN_WIDTH = 480
 SCREEN_HEIGHT = 600

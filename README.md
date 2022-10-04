@@ -1,5 +1,12 @@
 # Checkmate!
 
+## How to Run
+
+1. Copy repository to your local machine with Python installed (recommend version 3.10.5). 
+2. (Optional) - Initialize and activate a virtual environment to save separately dependencies (not globally).
+3. Run `pip install -r requirements.txt` from the root of this repository.
+4. Run `python chess/play_chess.py` from the root of this repository to start the game.
+
 ## Group Members: 
 
 - Alec Torres
@@ -32,6 +39,10 @@ MVP
 ![Project Domain Model](img/Domain%20Model.png)
 
 ## Chess Board Model
+
+### Pygame Board
+
+![Chess Board: Pygame](img/Chess%20Board%20Pygame.png)
 
 ### CLI Chess Board
 
