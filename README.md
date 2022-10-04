@@ -7,6 +7,8 @@
 3. Run `pip install -r requirements.txt` from the root of this repository.
 4. Run `python chess/play_chess.py` from the root of this repository to start the game.
 
+Note: Certain OS have compatibility issue with Pygame dependency.
+
 ## Group Members: 
 
 - Alec Torres
@@ -52,5 +54,5 @@ MVP
 
 ### Pygame Tutorials
 
-[Snake Tutorial](https://www.youtube.com/watch?v=9bBgyOkoBQ0&amp;t=365s)
-[Hangman Tutorial](https://www.youtube.com/watch?v=W6cjx7t39d4&amp;t=1458s)
+- [Snake Tutorial](https://www.youtube.com/watch?v=9bBgyOkoBQ0&amp;t=365s)
+- [Hangman Tutorial](https://www.youtube.com/watch?v=W6cjx7t39d4&amp;t=1458s)
