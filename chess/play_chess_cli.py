@@ -1,4 +1,4 @@
-import chess.chess as chess
+import chess.game as chess
 from chess.board import Chessboard
 
 

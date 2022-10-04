@@ -1,5 +1,5 @@
 import pytest
-import chess.chess as c
+import chess.game as c
 import chess.board as b
 
 

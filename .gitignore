@@ -1,3 +1,6 @@
 .venv
 .idea
 *.pyc
+play_chess.spec
+build
+dist
